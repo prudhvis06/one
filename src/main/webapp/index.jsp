@@ -7,7 +7,7 @@
 
 
 
-	        <h1 style="color: orange; font-size: 40px;" align="center">THIS IS new VERSION </h3>
+	        
 
 	
 	
